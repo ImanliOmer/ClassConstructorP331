@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\ClassConstructorP331\ClassConstructorP331\bin\Debug\net6.0\ClassConstructorP331.exe
+C:\Users\asus\Desktop\ClassConstructorP331\ClassConstructorP331\bin\Debug\net6.0\ClassConstructorP331.deps.json
+C:\Users\asus\Desktop\ClassConstructorP331\ClassConstructorP331\bin\Debug\net6.0\ClassConstructorP331.runtimeconfig.json
+C:\Users\asus\Desktop\ClassConstructorP331\ClassConstructorP331\bin\Debug\net6.0\ClassConstructorP331.dll
+C:\Users\asus\Desktop\ClassConstructorP331\ClassConstructorP331\bin\Debug\net6.0\ClassConstructorP331.pdb
+C:\Users\asus\Desktop\ClassConstructorP331\ClassConstructorP331\obj\Debug\net6.0\ClassConstructorP331.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\ClassConstructorP331\ClassConstructorP331\obj\Debug\net6.0\ClassConstructorP331.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\ClassConstructorP331\ClassConstructorP331\obj\Debug\net6.0\ClassConstructorP331.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\ClassConstructorP331\ClassConstructorP331\obj\Debug\net6.0\ClassConstructorP331.AssemblyInfo.cs
+C:\Users\asus\Desktop\ClassConstructorP331\ClassConstructorP331\obj\Debug\net6.0\ClassConstructorP331.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\ClassConstructorP331\ClassConstructorP331\obj\Debug\net6.0\ClassConstructorP331.dll
+C:\Users\asus\Desktop\ClassConstructorP331\ClassConstructorP331\obj\Debug\net6.0\refint\ClassConstructorP331.dll
+C:\Users\asus\Desktop\ClassConstructorP331\ClassConstructorP331\obj\Debug\net6.0\ClassConstructorP331.pdb
+C:\Users\asus\Desktop\ClassConstructorP331\ClassConstructorP331\obj\Debug\net6.0\ClassConstructorP331.genruntimeconfig.cache
+C:\Users\asus\Desktop\ClassConstructorP331\ClassConstructorP331\obj\Debug\net6.0\ref\ClassConstructorP331.dll
